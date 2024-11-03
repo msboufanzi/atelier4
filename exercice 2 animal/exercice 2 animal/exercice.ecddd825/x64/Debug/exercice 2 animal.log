@@ -1,0 +1,7 @@
+﻿  exercice 2 animal.cpp
+C:\Users\futuretech\Desktop\exercice 2 animal\exercice 2 animal\exercice 2 animal.cpp(40,1): error C2236: unexpected token 'class'. Did you forget a ';'?
+C:\Users\futuretech\Desktop\exercice 2 animal\exercice 2 animal\exercice 2 animal.cpp(40,15): error C2059: syntax error: ':'
+C:\Users\futuretech\Desktop\exercice 2 animal\exercice 2 animal\exercice 2 animal.cpp(40,17): error C2059: syntax error: 'private'
+C:\Users\futuretech\Desktop\exercice 2 animal\exercice 2 animal\exercice 2 animal.cpp(41,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\futuretech\Desktop\exercice 2 animal\exercice 2 animal\exercice 2 animal.cpp(41,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\futuretech\Desktop\exercice 2 animal\exercice 2 animal\exercice 2 animal.cpp(67,1): error C1004: unexpected end-of-file found

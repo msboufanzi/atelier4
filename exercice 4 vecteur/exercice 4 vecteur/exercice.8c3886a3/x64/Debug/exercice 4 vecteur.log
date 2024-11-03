@@ -1,0 +1,9 @@
+﻿  exercice 4 vecteur.cpp
+C:\Users\futuretech\Desktop\exercice 4 vecteur\exercice 4 vecteur\exercice 4 vecteur.cpp(66,18): error C2662: 'vecteur3d vecteur3d::som(const vecteur3d)': cannot convert 'this' pointer from 'const vecteur3d' to 'vecteur3d &'
+      C:\Users\futuretech\Desktop\exercice 4 vecteur\exercice 4 vecteur\exercice 4 vecteur.cpp(66,18):
+      Conversion loses qualifiers
+      C:\Users\futuretech\Desktop\exercice 4 vecteur\exercice 4 vecteur\exercice 4 vecteur.cpp(23,15):
+      see declaration of 'vecteur3d::som'
+      C:\Users\futuretech\Desktop\exercice 4 vecteur\exercice 4 vecteur\exercice 4 vecteur.cpp(66,18):
+      while trying to match the argument list '(const vecteur3d)'
+  

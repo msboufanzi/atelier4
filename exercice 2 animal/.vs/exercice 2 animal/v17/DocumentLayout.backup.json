@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\futuretech\\Desktop\\exercice 2 animal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDD825-2F01-4EA4-A055-793DFEDDEF92}|exercice 2 animal\\exercice 2 animal.vcxproj|C:\\Users\\futuretech\\Desktop\\exercice 2 animal\\exercice 2 animal\\exercice 2 animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECDDD825-2F01-4EA4-A055-793DFEDDEF92}|exercice 2 animal\\exercice 2 animal.vcxproj|solutionrelative:exercice 2 animal\\exercice 2 animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exercice 2 animal.cpp",
+              "DocumentMoniker": "C:\\Users\\futuretech\\Desktop\\exercice 2 animal\\exercice 2 animal\\exercice 2 animal.cpp",
+              "RelativeDocumentMoniker": "exercice 2 animal\\exercice 2 animal.cpp",
+              "ToolTip": "C:\\Users\\futuretech\\Desktop\\exercice 2 animal\\exercice 2 animal\\exercice 2 animal.cpp",
+              "RelativeToolTip": "exercice 2 animal\\exercice 2 animal.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T19:07:26.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

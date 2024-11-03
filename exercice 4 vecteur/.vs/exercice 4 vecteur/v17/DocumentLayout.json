@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\futuretech\\Desktop\\exercice 4 vecteur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3886A3-D26C-4650-83A6-6A702C17B61F}|exercice 4 vecteur\\exercice 4 vecteur.vcxproj|C:\\Users\\futuretech\\Desktop\\exercice 4 vecteur\\exercice 4 vecteur\\exercice 4 vecteur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C3886A3-D26C-4650-83A6-6A702C17B61F}|exercice 4 vecteur\\exercice 4 vecteur.vcxproj|solutionrelative:exercice 4 vecteur\\exercice 4 vecteur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exercice 4 vecteur.cpp",
+              "DocumentMoniker": "C:\\Users\\futuretech\\Desktop\\exercice 4 vecteur\\exercice 4 vecteur\\exercice 4 vecteur.cpp",
+              "RelativeDocumentMoniker": "exercice 4 vecteur\\exercice 4 vecteur.cpp",
+              "ToolTip": "C:\\Users\\futuretech\\Desktop\\exercice 4 vecteur\\exercice 4 vecteur\\exercice 4 vecteur.cpp",
+              "RelativeToolTip": "exercice 4 vecteur\\exercice 4 vecteur.cpp",
+              "ViewState": "AgIAADoAAAAAAAAAAAAiwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T20:56:54.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
